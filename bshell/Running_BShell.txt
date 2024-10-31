@@ -1,0 +1,6 @@
+Steps to run the Bshell:
+1) Download the python and batfile
+2) Go to "Edit The System Environment Variables"
+3) Add the variable path
+4) Go to Command Prompt and type, setx path "%path%;C:\...\bshell.bat"
+5) run command "%bshell%" --> if you made the variable name "bshell" (or) "%(anything you named the variable)%"
