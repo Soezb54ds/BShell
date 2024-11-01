@@ -1,6 +1,6 @@
-Steps to run the Bshell:
-1) Download the python and batfile
-2) Go to "Edit The System Environment Variables"
-3) Add the variable path
-4) Go to Command Prompt and type, setx path "%path%;C:\...\bshell.bat"
-5) run command "%bshell%" --> if you made the variable name "bshell" (or) "%(anything you named the variable)%"
+Steps to run BShell:
+1) Have python 3.10 or greater installed in your system.
+2) Make sure you can make a bat file of your own to start the terminal.
+3) Also, mak sure python can be run in your command prompt.
+4) Then, you can clone this repository.
+5) Finally, if needed, make a system environmeent variable to make sure you can run it without sourcing the python file everytime. (Optional)
